@@ -246,10 +246,3 @@ node utils/testApi.js
   - Safe confirmation dialogs before destructive operations.
 
 ---
-
-## 🏆 9. Hackathon Presentation Tips
-
-1. **Highlight the Time-Interval Engine:** Explain how traditional parking projects mark a slot "red" forever after 1 booking. Show how ParkSmart tests slot availability dynamically against chosen dates and times!
-2. **Demonstrate Conflict Rejection:** Show how two users trying to book Slot `A-01` for the same hour are safely handled with a clear conflict dialog.
-3. **Show the Digital Ticket:** Open a booking on the student dashboard, click **"View Pass"**, and show the boarding-pass style digital ticket with QR code.
-4. **Demonstrate Admin Control:** Log in as Admin, change a slot to maintenance mode, and notice how the user grid immediately disables booking for that slot!
