@@ -1,0 +1,21 @@
+{
+  "name": "smart-parking-system-root",
+  "version": "1.0.0",
+  "description": "Smart Parking System using MERN Stack for College Hackathon",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": [
+    "mern",
+    "smart-parking",
+    "react",
+    "express",
+    "mongodb",
+    "tailwind"
+  ],
+  "author": "Smart Parking Team",
+  "license": "MIT"
+}
